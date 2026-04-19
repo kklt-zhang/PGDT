@@ -1,5 +1,5 @@
 
-# PGDT: Physics-Guided Dual-Teacher Framework for Semi-Supervised SAR Ship Detection
+# PGDT: A Physics-Guided Dual-Teacher Framework for Semi-Supervised SAR Ship Detection
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8+-ee4c2c.svg)](https://pytorch.org/)
 [![MMDetection](https://img.shields.io/badge/MMDetection-3.3.0-green.svg)](https://github.com/open-mmlab/mmdetection)
