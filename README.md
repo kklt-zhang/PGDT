@@ -28,12 +28,11 @@ To mitigate this, we propose the **Physics-Guided Dual-Teacher (PGDT)** framewor
 
 **Step 1. Environment Preparation**
 
-First, create a clean conda environment and **ensure it is activated** before proceeding to the next steps.
+First, create a clean conda environment and **ensure it is activated** before proceeding.
 
 ```shell
 conda create -n pgdt python=3.8 -y
 conda activate pgdt
-```
 
 **Step 2. Install Core Dependencies**
 
