@@ -6,7 +6,7 @@ markdown
 [![MMDetection](https://img.shields.io/badge/MMDetection-3.3.0-green.svg)](https://github.com/open-mmlab/mmdetection)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-This is the official PyTorch implementation of the paper **"Physics-Guided Dual-Teacher Framework for Semi-Supervised SAR Ship Detection"** (accepted by *IEEE Geoscience and Remote Sensing Letters*). 
+This is the official PyTorch implementation of the paper **"Physics-Guided Dual-Teacher Framework for Semi-Supervised SAR Ship Detection"** 
 
 This project is built upon the open-source detection toolbox [MMDetection](https://github.com/open-mmlab/mmdetection).
 
