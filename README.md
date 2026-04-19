@@ -55,7 +55,7 @@ pip install -v -e .
 ## 📂 Data 
 We evaluate PGDT on the **SSDD** and **HRSID** datasets. Please download the datasets and organize them in the `data/` folder as follows:
 ```text
-PGDT-SAR/
+PGDT/
   └── data/
       ├── SSDD/
       │   ├── annotations/
