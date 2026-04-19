@@ -1,5 +1,4 @@
 
-markdown
 # PGDT: Physics-Guided Dual-Teacher Framework for Semi-Supervised SAR Ship Detection
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8+-ee4c2c.svg)](https://pytorch.org/)
