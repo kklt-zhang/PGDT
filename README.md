@@ -1,5 +1,5 @@
 
-```markdown
+markdown
 # PGDT: Physics-Guided Dual-Teacher Framework for Semi-Supervised SAR Ship Detection
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8+-ee4c2c.svg)](https://pytorch.org/)
@@ -25,7 +25,7 @@ To mitigate this, we propose the **Physics-Guided Dual-Teacher (PGDT)** framewor
 - **GPU**: 1 × NVIDIA GeForce RTX 3090 (24GB)
 - **CUDA**: 12.4
 - **MMDetection**: 3.3.0
-```
+
 **Step 1. Environment Preparation**
 
 First, create a clean conda environment and **ensure it is activated** before proceeding.
@@ -53,7 +53,7 @@ mim install "mmcv>=2.0.0"
 pip install -v -e .
 ```
 
-## 📂 Data Preparation
+## 📂 Data 
 We evaluate PGDT on the **SSDD** and **HRSID** datasets. Please download the datasets and organize them in the `data/` folder as follows:
 ```text
 PGDT-SAR/
@@ -103,13 +103,7 @@ python tools/test.py configs/pgdt/pgdt_faster_rcnn_r50_fpn_10percent_hrsid.py wo
 ## 📝 Citation
 If you find this project useful in your research, please consider citing our paper:
 ```bibtex
-@article{zhang2024pgdt,
-  title={Physics-Guided Dual-Teacher Framework for Semi-Supervised SAR Ship Detection},
-  author={Zhang, Zihao and Li, Ying and Cheng, Lingxiao and Xu, Chujie},
-  journal={IEEE Geoscience and Remote Sensing Letters},
-  year={2024},
-  publisher={IEEE}
-}
+
 ```
 
 ## 🙏 Acknowledgement
@@ -120,4 +114,4 @@ For any questions, please feel free to open an issue or contact `kklt_zhang@dlmu
 ```
 
 
-现在去 GitHub 预览一下，保证三个步骤看起来整齐划一！搞定之后，咱们正式开始写 **Response Letter**？
+
