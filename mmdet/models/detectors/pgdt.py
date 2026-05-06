@@ -137,7 +137,7 @@ class PGDT(SoftTeacher):
                 s_phys = compute_sar_phys_score(phys_feats)
 
                 tau_veto = self.physics_cfg['tau_low']
-                safe_score_thr = 0.9  # Safety Lock
+                safe_score_thr = 0.85  # Safety Lock
 
                 veto_mask = (s_phys > tau_veto) | (sem_scores[valid_inds] > safe_score_thr)
                 keep_indices = valid_inds[veto_mask]
