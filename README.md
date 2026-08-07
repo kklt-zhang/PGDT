@@ -99,7 +99,7 @@ If you find this project useful in your research, please consider citing our pap
 ```
 
 ## 🙏 Acknowledgement
-This project is built upon the foundational framework of [MMDetection](https://github.com/open-mmlab/mmdetection). Furthermore, a large part of the semi-supervised training codebase is inspired by and borrowed from [SoftTeacher](https://github.com/microsoft/SoftTeacher). We sincerely thank the original authors for their outstanding open-source contributions!
+This project is built upon the foundational framework of [MMDetection](https://github.com/open-mmlab/mmdetection). The semi-supervised detection implementation is mainly inspired by and adapted from [SoftTeacher](https://github.com/microsoft/SoftTeacher). We also acknowledge the valuable methodological insights provided by [Dual Teacher](https://github.com/XiangtaoZheng/DualTeacher) for cross-domain semi-supervised ship detection. We sincerely thank the authors of these works for their outstanding open-source contributions and impactful research.
 
 ## ✉️ Contact
 For any questions, please feel free to open an issue or contact `kklt_zhang@dlmu.edu.cn`.
