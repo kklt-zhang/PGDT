@@ -1,12 +1,15 @@
 
-# PGDT: A Physics-Guided Dual-Teacher Framework for Semi-Supervised SAR Ship Detection
+# PGDT: A Physics-Guided Dual-Teacher Framework for Semisupervised SAR Ship Detection
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8+-ee4c2c.svg)](https://pytorch.org/)
 [![MMDetection](https://img.shields.io/badge/MMDetection-3.3.0-green.svg)](https://github.com/open-mmlab/mmdetection)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 This is the official PyTorch implementation of the paper **"PGDT: A Physics-Guided Dual-Teacher Framework for Semi-Supervised SAR Ship Detection"** 
-
+## 📢 News
+- **[2026.08]** Our paper **"PGDT: A Physics-Guided Dual-Teacher Framework for Semisupervised SAR Ship Detection"** has been accepted by **IEEE Geoscience and Remote Sensing Letters (GRSL)**.
+- The paper is available on IEEE Xplore:
+  DOI: `10.1109/LGRS.2026.3718542`
 ## 💡 Introduction
 Existing semi-supervised object detection (SSOD) methods are prone to self-reinforcing errors in SAR imagery due to their homogeneous network architectures and confirmation bias. 
 
@@ -81,6 +84,17 @@ python tools/test.py configs/pgdt/pgdt_faster_rcnn_r50_fpn_10percent_hrsid.py wo
 ## 📝 Citation
 If you find this project useful in your research, please consider citing our paper:
 ```bibtex
+@ARTICLE{11635823,
+  author={Zhang, Zihao and Li, Ying and Cheng, Lingxiao and Xu, Chujie},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={PGDT: A Physics-Guided Dual-Teacher Framework for Semi-Supervised SAR Ship Detection}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Labeling;Physics;Signal detection;Synthetic aperture radar;Modeling;Specific absorption rate;Marine vehicles;Scattering;Proposals;Training;Synthetic Aperture Radar (SAR);semi-supervised object detection;physics-guided learning;ship detection;teacher–student model},
+  doi={10.1109/LGRS.2026.3718542}}
+
 
 ```
 
