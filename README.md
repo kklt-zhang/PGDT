@@ -5,7 +5,7 @@
 [![MMDetection](https://img.shields.io/badge/MMDetection-3.3.0-green.svg)](https://github.com/open-mmlab/mmdetection)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-This is the official PyTorch implementation of the paper **"PGDT: A Physics-Guided Dual-Teacher Framework for Semi-Supervised SAR Ship Detection"** 
+This is the official PyTorch implementation of the paper **"PGDT: A Physics-Guided Dual-Teacher Framework for Semisupervised SAR Ship Detection"** 
 ## 📢 News
 - **[2026.08]** Our paper **"PGDT: A Physics-Guided Dual-Teacher Framework for Semisupervised SAR Ship Detection"** has been accepted by **IEEE Geoscience and Remote Sensing Letters (GRSL)**.
 - The paper is available on IEEE Xplore:
