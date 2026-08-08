@@ -87,13 +87,14 @@ If you find this project useful in your research, please consider citing our pap
 @ARTICLE{11635823,
   author={Zhang, Zihao and Li, Ying and Cheng, Lingxiao and Xu, Chujie},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={PGDT: A Physics-Guided Dual-Teacher Framework for Semi-Supervised SAR Ship Detection}, 
+  title={PGDT: A Physics-Guided Dual-Teacher Framework for Semisupervised SAR Ship Detection}, 
   year={2026},
-  volume={},
+  volume={23},
   number={},
-  pages={1-1},
-  keywords={Labeling;Physics;Signal detection;Synthetic aperture radar;Modeling;Specific absorption rate;Marine vehicles;Scattering;Proposals;Training;Synthetic Aperture Radar (SAR);semi-supervised object detection;physics-guided learning;ship detection;teacher–student model},
+  pages={4012405-4012405},
+  keywords={Labeling;Physics;Signal detection;Synthetic aperture radar;Modeling;Specific absorption rate;Marine vehicles;Scattering;Proposals;Training;Physics-guided learning;semisupervised object detection (SSOD);ship detection;synthetic aperture radar (SAR);teacher–student model},
   doi={10.1109/LGRS.2026.3718542}}
+
 
 
 ```
