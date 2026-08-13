@@ -10,6 +10,7 @@ This is the official PyTorch implementation of the paper **"PGDT: A Physics-Guid
 - **[2026.08]** Our paper **"PGDT: A Physics-Guided Dual-Teacher Framework for Semisupervised SAR Ship Detection"** has been accepted by **IEEE Geoscience and Remote Sensing Letters (GRSL)**.
 - The paper is available on IEEE Xplore:
   DOI: `10.1109/LGRS.2026.3718542`
+  https://ieeexplore.ieee.org/document/11635823
 ## 💡 Introduction
 Existing semi-supervised object detection (SSOD) methods are prone to self-reinforcing errors in SAR imagery due to their homogeneous network architectures and confirmation bias. 
 
